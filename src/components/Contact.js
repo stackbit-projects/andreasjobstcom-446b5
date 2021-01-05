@@ -41,7 +41,7 @@ const Contact = (props) => (
                 <section>
                     <div className="contact-method">
                         <span className="icon alt fa-home"></span>
-                        <h3>Address</h3>
+                        <h3>Anschrift</h3>
                         <span>1234 Somewhere Road #5432<br />
                         Nashville, TN 00000<br />
                         United States of America</span>
