@@ -44,7 +44,7 @@ const Contact = (props) => (
                         <h3>Anschrift</h3>
                         <span>Am Sonnenhang 6a<br />
                         94130 Obernzell<br />
-                        United States of America</span>
+                        Germany</span>
                     </div>
                 </section>
             </section>
