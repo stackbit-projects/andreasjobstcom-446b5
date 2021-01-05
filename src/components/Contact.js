@@ -34,7 +34,7 @@ const Contact = (props) => (
                 <section>
                     <div className="contact-method">
                         <span className="icon alt fa-phone"></span>
-                        <h3>Phone</h3>
+                        <h3>Telefon</h3>
                         <span>(000) 000-0000 x12387</span>
                     </div>
                 </section>
