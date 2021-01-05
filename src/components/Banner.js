@@ -10,7 +10,7 @@ const Banner = (props) => (
                 <p>Webdesign, E-Commerce, Online-Marekting<br />
                 and released under the Creative Commons.</p>
                 <ul className="actions">
-                    <li><a href="#one" className="button next scrolly">Get Started</a></li>
+                    <li><a href="#one" className="button next scrolly">Los geht's</a></li>
                 </ul>
             </div>
         </div>
